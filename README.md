@@ -1,4 +1,4 @@
-# College Placement Management System
+# Career Recruitment Evaluation Platform
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -83,8 +83,7 @@ The **College Placement Management System** is a web application designed to str
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/moinmn/college-placement-management-system.git
-cd college-placement-management-system
+cd career-recruitment-evaluation-platform
 ```
 
 ### Backend Setup
@@ -131,9 +130,5 @@ cd college-placement-management-system
    npm run dev
    ```
 
-## Contributors
-- **Member 1**: [Moin MN](https://www.linkedin.com/in/moinnaik/)
-- **Member 2**: Rafat Muskan Shaikh
-- **Member 3**: Saquib Patel
-- **Member 4**: Neeraj Kumar
+
 
